@@ -1,4 +1,4 @@
-# BuildMate — Backend (Node + Express + PostgreSQL)
+# BuildMate: Backend (Node + Express + PostgreSQL)
 
 A minimal, production-ready API for the **BuildMate** resume/portfolio app.
 
